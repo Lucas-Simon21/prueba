@@ -6,12 +6,6 @@
 body {
   background-image: url(images/3.jpg);
   background-repeat: repeat;
-  width: 100%;
-}
-
-.fodo {
-  background-image: url(images/3.jpg);
-  background-repeat: repeat;
 }
 
 ul {
@@ -97,12 +91,11 @@ h2 {
 }
 
 .footer {
-  margin: 0px 0px 0px 0px;
   padding: 20px;
   justify-content: center;
   text-align: center;
   width: auto;
-  height: 10px;
+  height: 20px;
   overflow: hidden;
   font-size: 20px;
   background-image: url(images/7.jpg);
